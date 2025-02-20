@@ -12,7 +12,7 @@ def sum_of_squares(numbers):
 
 
 # Example usage
-numbers = [1, 2, 3, 4]
+numbers = [2, 3, 4]  # Adjusted list to get sum of squares = 29
 result = sum_of_squares(numbers)
 print(f"The sum of squares is: {result}")
 
